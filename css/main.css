@@ -3,3 +3,23 @@
         order: -1;
     }
 }
+
+#hero-con {
+    width: 1200px;
+    height: 455px;
+}
+
+#products {
+    width: 1200px;
+    height: 450px; 
+}
+
+#promotional-con {
+    width: 1200px;
+    height: 700px;
+}
+
+#footer-con {
+    width: 1200px;
+    height: 350px; 
+}
